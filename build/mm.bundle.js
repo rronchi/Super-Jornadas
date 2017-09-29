@@ -51884,8 +51884,8 @@ angular.module('mm.addons.messageoutput_airnotifier')
 angular.module('mm.core')
 
 .constant('mmCoreConfigConstants', {
-    "app_id" : "com.moodle.moodlemobile",
-    "appname": "MyPrivateGuru",
+    "app_id" : "com.superjornadas.moodlemobile",
+    "appname": "Super Jornadas",
     "versioncode" : "2017",
     "versionname" : "3.2.2",
     "cache_expiration_time" : 300000,
@@ -51896,7 +51896,7 @@ angular.module('mm.core')
     "demo_sites": {"student": {"url": "http://school.demo.moodle.net", "username": "student", "password": "moodle"}, "teacher": {"url": "http://school.demo.moodle.net", "username": "teacher", "password": "moodle"}, "cva": {"url": "http://mm.cvaconsulting.com/moodle", "username": "student", "password": "student"}},
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
-    "siteurl": "guru.moodlecloud.com",
+    "siteurl": "http://superjornadas.com/",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
     "privacypolicy": "https://moodle.org/mod/page/view.php?id=8148"
